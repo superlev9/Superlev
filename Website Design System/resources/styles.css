@@ -1,5 +1,9 @@
 /* CSS Document */
-h1{ 
+*{
+	background-color: black;
+	color: white;
+}
+.websiteheading{ 
 	text-align: center;
 }
 .deepskyblue{
@@ -15,7 +19,7 @@ h1{
 	text-align: center;
 }
 .colors{
-	border: 1px solid black;
+	border: 1px solid white;
 }
 .colorheading{
 	font-size: 25px;
@@ -56,15 +60,40 @@ h1{
 	margin: 10px;
 	text-align: center;
 }
+.red{
+	background-color: mistyrose;
+	color: black;
+	font-family: 'Oswald', sans-serif;
+ 	font-size: 15px;
+ 	font-weight: 300;
+ 	line-height: 15px;
+ 	width: 92%;
+ 	padding: 15px;
+	margin: 10px;
+	text-align: center;
+}
+.orange{
+	background-color: coral;
+	color: black;
+	font-family: 'Oswald', sans-serif;
+ 	font-size: 15px;
+ 	font-weight: 300;
+ 	line-height: 15px;
+ 	width: 92%;
+ 	padding: 15px;
+	margin: 10px;
+	text-align: center;
+}
+
 .fonts{
-	border: 1px solid black;
+	border: 1px solid white;
 	margin-top:10px;
 }
 .fontheading{
 	font-size: 25px;
 }
 .textstyles{
-	border: 1px solid black;
+	border: 1px solid white;
 	margin-top:10px;
 }
 .textstylesheading{
