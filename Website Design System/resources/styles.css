@@ -2,3 +2,107 @@
 h1{ 
 	text-align: center;
 }
+.deepskyblue{
+	background-color: deepskyblue; 
+	color: black;
+	font-family: 'Oswald', sans-serif;
+ 	font-size: 15px;
+ 	font-weight: 300;
+ 	line-height: 15px;
+ 	width: 92%;
+ 	padding: 15px;
+	margin: 10px;
+	text-align: center;
+}
+.colors{
+	border: 1px solid black;
+}
+.colorheading{
+	font-size: 25px;
+}
+.green{
+	background-color: limegreen;
+	color: black;
+	font-family: 'Oswald', sans-serif;
+ 	font-size: 15px;
+ 	font-weight: 300;
+ 	line-height: 15px;
+ 	width: 92%;
+ 	padding: 15px;
+	margin: 10px;
+	text-align: center;
+}
+.purple{
+	background-color: mediumpurple;
+	color: black;
+	font-family: 'Oswald', sans-serif;
+ 	font-size: 15px;
+ 	font-weight: 300;
+ 	line-height: 15px;
+ 	width: 92%;
+ 	padding: 15px;
+	margin: 10px;
+	text-align: center;
+}
+.beige{
+	background-color: beige;
+	color: black;
+	font-family: 'Oswald', sans-serif;
+ 	font-size: 15px;
+ 	font-weight: 300;
+ 	line-height: 15px;
+ 	width: 92%;
+ 	padding: 15px;
+	margin: 10px;
+	text-align: center;
+}
+.fonts{
+	border: 1px solid black;
+	margin-top:10px;
+}
+.fontheading{
+	font-size: 25px;
+}
+.textstyles{
+	border: 1px solid black;
+	margin-top:10px;
+}
+.textstylesheading{
+	font-size: 25px;
+}
+.rowdies{
+	font-family: 'Rowdies', cursive;
+}
+.rowdiesheading{
+	text-decoration: underline;
+}
+.Rowdies2{
+	font-weight: 1000;
+}
+.Rowdies3{
+	font-style: italic;
+}
+.quicksand{
+	font-family: 'Quicksand', sans-serif;
+}
+.quicksandheading{
+	text-decoration: underline;
+}
+.quicksand2{
+	font-weight: bold;
+}
+.quicksand3{
+	font-style: italic;
+}
+.moondance{
+	font-family: 'Moon Dance', cursive;
+}
+.moondanceheading{
+	text-decoration: underline;
+}
+.moondance2{
+	font-weight: bold;
+}
+.moondance3{
+	font-style: italic;
+}
